@@ -1,2 +1,6 @@
-# rozetka-automation-tests
-Automation tests for Rozetka
+# Automation tests for [Rozetka](http://rozetka.com.ua)
+
+### Command to execute tests
+```console
+npm test
+```
