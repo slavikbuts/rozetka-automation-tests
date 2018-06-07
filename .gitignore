@@ -1,3 +1,8 @@
-node_modules
-errorShots
+# Dependency directories
+node_modules/
+
+# WebdriverIO Specific Files
+errorShots/
+screenshots/latest/
+screenshots/diff/
 
